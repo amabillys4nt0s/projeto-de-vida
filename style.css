@@ -11,7 +11,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(--rosa);
     font-family: 'Chakra Petch', sans-serif;
 }
 
@@ -33,14 +33,14 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--verde);
+    color: var(--rosa claro);
 }
 
 
 .botao {
     font-family: 'Chakra Petch', sans-serif;
     background-color: var(--botao-inativo);
-    color: var(--branco);
+    color: var(--preto);
     display: flex;
     justify-content: center;
     padding: 1em;
@@ -87,7 +87,7 @@ body {
 
 .aba-conteudo-titulo-secundario {
     text-align: center;
-    color: var(--verde);
+    color: var(--roxo);
     text-transform: uppercase;
 }
 
@@ -110,7 +110,7 @@ body {
 }
 
 .contador-digito-texto {
-    color: var(--verde);
+    color: var(--amarelo);
     font-size: 20px;
     margin: 0;
 
